@@ -971,8 +971,8 @@ Unit Tests (60%)
 - [Admin Guide](docs/ADMIN_GUIDE.md)
 
 ### Support
-- **Email**: support@yourcompany.com
-- **Documentation**: https://docs.dms.yourcompany.com
+- **Email**: support@fachriramdhan.com
+- **Documentation**: https://docs.dms.fachriramdahn.com
 
 ---
 
@@ -1138,7 +1138,7 @@ This project blueprint is provided as-is for implementation purposes.
 
 **Made with ❤️ for better document management**
 
-© 2024 Your Company Name. All rights reserved.
+© 2026 fachriramdhan. All rights reserved.
 
 ---
 
@@ -1191,11 +1191,11 @@ Admin > Approver > Reviewer > Owner > Viewer
 
 ### API Base URL
 ```
-https://api.dms.yourcompany.com/v1
+https://api.dms.fachriramdhan.com/v1
 ```
 
 ---
 
 **End of Documentation**
 
-Happy coding! 🎉
+Happy coding! 🎉 fachriramdhan
